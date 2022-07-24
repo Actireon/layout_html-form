@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,YACE,aACF,CAEA,gCACE,eACF,CAEA,eACE,kBACF","file":"style.54688dcc.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.form-label {\n  display: block;\n}\n\n.form-label:not(:nth-of-type(1)) {\n  margin-top: 10px;\n}\n\n.form-fieldset {\n  margin-bottom: 20px;\n}\n"]}
