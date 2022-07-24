@@ -1,1 +1,12 @@
 /* styles go here */
+.form-label {
+  display: block;
+}
+
+.form-label:not(:nth-of-type(1)) {
+  margin-top: 10px;
+}
+
+.form-fieldset {
+  margin-bottom: 20px;
+}
